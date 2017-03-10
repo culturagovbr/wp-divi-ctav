@@ -39,25 +39,25 @@
 
         <ul id="accessibility">
             <li>
-                <a accesskey="1" href="#acontent" id="link-conteudo">
+                <a accesskey="1" href="#et-main-area" id="link-conteudo">
                     Ir para o conte&uacute;do
                     <span>1</span>
                 </a>
             </li>
             <li>
-                <a accesskey="2" href="#anavigation" id="link-navegacao">
+                <a accesskey="2" href="#top-menu" id="link-navegacao">
                     Ir para o menu
                     <span>2</span>
                 </a>
             </li>
             <li>
-                <a accesskey="3" href="#SearchableText" id="link-buscar">
+                <a accesskey="3" href="#portal-searchbox" id="link-buscar">
                     Ir para a busca
                     <span>3</span>
                 </a>
             </li>
             <li>
-                <a accesskey="4" href="#afooter" id="link-rodape">
+                <a accesskey="4" href="#main-footer" id="link-rodape">
                     Ir para o rodap&eacute;
                     <span>4</span>
                 </a>
@@ -67,10 +67,10 @@
         <!-- <ul id="language" class="hidden">
             <li class="language-es">
                <a href="#">Acessibilidade</a>
-            </li>   
+            </li>
  <li>
                 <a href="#">Acessibilidade</a>
-            </li>         
+            </li>
         </ul>-->
 
         <ul id="portal-siteactions">

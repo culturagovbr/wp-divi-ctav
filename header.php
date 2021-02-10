@@ -88,8 +88,10 @@
 
         <div id="logo-header-tema">
             <a href="<?php echo home_url(); ?>" title="CENTRO T&Eacute;CNICO AUDIOVISUAL">
-                <div id="portal-title"><img src="/wp-content/uploads/sites/5/2016/11/LogoCTAV.fw_.png"></div>
-                <!--<div id="portal-description" style="color: #F0C419">&nbsp;CENTRO T&Eacute;CNICO AUDIOVISUAL - Minist&eacute;rio da Cultura </div>-->
+                <div id="portal-title">
+					<h1>CENTRO T&Eacute;CNICO AUDIOVISUAL</h1>
+				</div>
+                <div id="portal-description" style="color: #F0C419">SECRETARIA NACIONAL DO AUDIOVISUAL / SECRETARIA ESPECIAL DA CULTURA<br/>MINIST&Eacute;RIO DO TURISMO</div>
             </a>
 
         </div>
@@ -99,7 +101,7 @@
         <div id="portal-searchbox" role="search">
                 <form role="search" method="get" class="" action="<?php echo esc_url( home_url( '/' ) ); ?>">
 					<?php
-						printf( '<input type="search" class="et-search-field"  accesskey="3" placeholder="Buscar" value="Buscar" name="s" title="%3$s" /> <input type="submit" value="Buscar" class="searchButton">',
+						printf( '<input type="search" class="et-search-field"  accesskey="3" placeholder="Buscar" name="s" title="%3$s" /> <input type="submit" value="Buscar" class="searchButton">',
 							esc_attr__( 'Search &hellip;', 'Divi' ),
 							get_search_query(),
 							esc_attr__( 'Search for:', 'Divi' )
@@ -109,26 +111,21 @@
             </div>
 
 
-        <div id="social-icons">
+        <div id="redes-sociais">
                 <ul>
                     <li>
-                        <a href="#" title="Facebook">
-                            <img src="/wp-content/uploads/sites/2/2016/08/icone_home_facebook.png" alt="Facebook" />
+                        <a href="https://www.facebook.com/ctavsav/" target="_blank" title="Facebook">
+                            <img src="http://ctav.gov.br/wp-content/uploads/sites/5/2021/02/facebook.png" alt="Facebook" />
                         </a>
                     </li>
                     <li>
-                        <a href="#" title="Twitter">
-                            <img src="/wp-content/uploads/sites/2/2016/08/icone_home_twitter.png" alt="Twitter" />
+                        <a href="https://www.instagram.com/ctavcinema/" target="_blank" title="Instagram">
+                            <img src="http://ctav.gov.br/wp-content/uploads/sites/5/2021/02/instagram1.png" alt="Instagram" />
                         </a>
                     </li>
                     <li>
-                        <a href="#" title="Youtube">
-                            <img src="/wp-content/uploads/sites/2/2016/08/icone_home_youtube.png" alt="Youtube" />
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#" title="Flickr">
-                            <img src="/wp-content/uploads/sites/2/2016/08/icone_home_rss.png" alt="RSS" />
+                        <a href="https://www.youtube.com/user/ctavcinema" target="_blank" title="Youtube">
+                            <img src="http://ctav.gov.br/wp-content/uploads/sites/5/2021/02/twitter.png" alt="Youtube" />
                         </a>
                     </li>
                 </ul>

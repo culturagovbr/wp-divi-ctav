@@ -125,7 +125,7 @@
                     </li>
                     <li>
                         <a href="https://www.youtube.com/user/ctavcinema" target="_blank" title="Youtube">
-                            <img src="http://ctav.gov.br/wp-content/uploads/sites/5/2021/02/youtube.png" alt="Youtube" />
+                            <img src="http://ctav.gov.br/wp-content/uploads/sites/5/2021/02/1485482355-youtube_78661.png" alt="Youtube" />
                         </a>
                     </li>
                 </ul>
